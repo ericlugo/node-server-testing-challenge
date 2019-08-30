@@ -23,3 +23,7 @@ For this project you will use `Test Driven Development` to create a RESTful API 
 - Your API must be able to **create** and **delete** a _resource_ of your choosing.
 - Write a minimum of two tests per route handler.
 - Write the **tests BEFORE** writing the production code.
+
+---
+
+###### This fork is maintained by: Eric SarragaLugo
